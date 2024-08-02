@@ -34,11 +34,11 @@ This program allows users to roll multiple dice and view the results both as tex
 Below is a snapshot of the Dice Roller application:
 
 ![Dice Roller Program Screenshot](ss1.PNG)
-)
+
 ![Dice Roller Program Screenshot](ss2.PNG)
-)
+
 ![Dice Roller Program Screenshot](ss3.PNG)
-)
+
 
 ## Contributing
 
